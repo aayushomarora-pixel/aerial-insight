@@ -14,7 +14,7 @@
 - [x] Add responsive layout and accessible interactions
 - [x] Add Vitest coverage for analysis validation and persistence helpers
 - [x] Run typecheck, tests, and browser visual verification
-- [ ] Save final project checkpoint for delivery
+- [x] Save final project checkpoint for delivery
 - [x] Enforce explicit building counts, flooding indicators or affected-area estimates, and crop-health observations in the AI report schema
 - [x] Include the original prompt and explicit metric fields inside the saved report payload
 - [x] Add Vitest coverage for persistence helpers, user scoping, and report parsing
