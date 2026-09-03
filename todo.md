@@ -1,0 +1,22 @@
+# Project TODO
+
+- [x] Signed-in app shell with scientific blueprint visual language
+- [x] Require authentication for analysis and history workflows
+- [x] Upload satellite or aerial imagery with drag-and-drop and file validation
+- [x] Capture a structured text description of features or conditions to investigate
+- [x] Store uploaded image references in S3-backed storage
+- [x] Add persisted analysis/report data model scoped to the signed-in user
+- [x] Add server-side AI vision analysis using structured JSON output
+- [x] Detect and count requested geographic features, including buildings, flooding indicators or estimated affected area, and crop-health observations
+- [x] Generate a structured report with counts, observations, confidence, limitations, and original prompt
+- [x] Display analysis progress, errors, and report results with clear states
+- [x] Show saved analyses and allow users to reopen past reports
+- [x] Add responsive layout and accessible interactions
+- [x] Add Vitest coverage for analysis validation and persistence helpers
+- [x] Run typecheck, tests, and browser visual verification
+- [ ] Save final project checkpoint for delivery
+- [x] Enforce explicit building counts, flooding indicators or affected-area estimates, and crop-health observations in the AI report schema
+- [x] Include the original prompt and explicit metric fields inside the saved report payload
+- [x] Add Vitest coverage for persistence helpers, user scoping, and report parsing
+- [x] Add direct Vitest tests for database persistence helpers and user scoping
+- [x] Add direct tests for report parsing and saved report payload shape
